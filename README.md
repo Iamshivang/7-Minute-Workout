@@ -44,7 +44,7 @@ The 7 Minute Workout Android app transforms short breaks into effective fitness 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/7-Minute-Workout.git
+   https://github.com/Iamshivang/7-Minute-Workout.git
     ```
 
 2. Open the project in Android Studio.
