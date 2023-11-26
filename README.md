@@ -23,8 +23,11 @@ Follow these steps to get started with the 7-Minute-Workout app:
 
 <img src="https://firebasestorage.googleapis.com/v0/b/projemanange.appspot.com/o/gitHub%20images%2FScreenshot_2023-11-26-04-32-48-50_f1e8e00b46d41b0dadb8007279d07351.jpg?alt=media&token=b97f1d0a-5e1a-4bd9-9b63-24dff5e9fbdb" alt="7-Minute-Workout" width="170" height= "340"/>
 <img src="https://firebasestorage.googleapis.com/v0/b/projemanange.appspot.com/o/gitHub%20images%2FScreenshot_2023-11-26-04-32-55-90_f1e8e00b46d41b0dadb8007279d07351.jpg?alt=media&token=889a74d5-7ef1-42ef-8413-f20d80e098b5" alt="7-Minute-Workout" width="170" height= "340"/>
-![7-Minute-Workout](https://firebasestorage.googleapis.com/v0/b/projemanange.appspot.com/o/gitHub%20images%2FScreenshot_2023-11-26-04-32-48-50_f1e8e00b46d41b0dadb8007279d07351.jpg?alt=media&token=b97f1d0a-5e1a-4bd9-9b63-24dff5e9fbdb)
-###### 7-Minute-Workout
+
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+  <img src="https://firebasestorage.googleapis.com/v0/b/projemanange.appspot.com/o/gitHub%20images%2FScreenshot_2023-11-26-04-32-48-50_f1e8e00b46d41b0dadb8007279d07351.jpg?alt=media&token=b97f1d0a-5e1a-4bd9-9b63-24dff5e9fbdb" alt="7-Minute-Workout" width="170" height="340" style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
+  <img src="https://firebasestorage.googleapis.com/v0/b/projemanange.appspot.com/o/gitHub%20images%2FScreenshot_2023-11-26-04-32-55-90_f1e8e00b46d41b0dadb8007279d07351.jpg?alt=media&token=889a74d5-7ef1-42ef-8413-f20d80e098b5" alt="7-Minute-Workout" width="170" height="340" style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
+</div>
 
 
 <img src="" alt="7-Minute-Workout" width="170" height= "340"/>
